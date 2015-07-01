@@ -1,2 +1,3 @@
-# jekyll-plugins
-Jekyll Plugins
+# Jekyll Plugins
+
+A collection of Jekyll Plugins.
